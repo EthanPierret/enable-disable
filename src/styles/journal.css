@@ -1,0 +1,27 @@
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.short {
+    width: 3em;
+}
+
+form {
+width: 50%;
+}
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
